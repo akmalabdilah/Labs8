@@ -170,8 +170,13 @@ G. Dan Ini adalah Hasil Outputnnya:'<p>'
 ![Gambar 18](screenshoot/s18.JPG)
 ![Gambar 19](screenshoot/s19.JPG)
 
+G. Ini Adalah Flowchartnya:'<p>'
+![Gambar 20](screenshoot/s20.JPG)
 
+H. Ini Adalah Diagram Classnya:'<p>'
+![Gambar 21](screenshoot/s21.JPG)
 
+OK SEKIAN TUGAS LAB 8 INI SAYA BUAT KURANG LEBIHNYA SAYA MOHON MAAF'<P>'
 
 
 
