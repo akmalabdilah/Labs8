@@ -181,8 +181,8 @@ OK SEKIAN TUGAS LAB 8 INI SAYA BUAT KURANG LEBIHNYA SAYA MOHON MAAF'<P>'
 Dan ini link tugas latihan 13 '<p>'
 https://github.com/akmalabdilah/Eksepsi.git'<p>'
 
-    
-
+Dan ini link tugas latihan 14 '<p>'
+https://github.com/akmalabdilah/Latihan-Pertemuan-14.git'<P>'
 
 
 
